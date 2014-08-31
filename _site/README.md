@@ -1,4 +1,4 @@
-qanightblog
+QA Night Blog
 ===========
 
 qanightblog
